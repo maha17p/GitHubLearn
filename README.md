@@ -44,6 +44,10 @@
 
 26.Fork --> helps to copy and create remote repo of someone repo to our own remote repo.
 
+27.git pull master origin --> to pull the remote repo to our local repo
+
+28. git clone url --> to get the remote clone repo
+
 # .gitignore file:
     1.Sometimes, we don't need to add all files  to our git hub repo like nodemodules .By using .gitignore file we can do this.
 
