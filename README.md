@@ -34,7 +34,11 @@
 19.git checkout . --> to go to the previous place where you commit after modified(for specific file we can mention fileName)
 20.git checkout master --> id section to master
 21. git reset --hard id --> One use this comment you can't get back to the master branch--> It makes particular id as a master branch.
-22.git merge branchName --> to merge the branch.
+22.git merge branchName --> to merge the branches.
+
+23.git remote add origin remoteRespositoryLink --> helps to connect our local repo to remote repo.
+
+24.git push origin master --> now we can push our local repo file to our remote repo
 
 
 
@@ -45,7 +49,7 @@
 
     3. For hide folder -> we should filefolder/
 # LifeCycle of GitHub:
-            * git init --> initalize repository
+            * git init --> initalize  repository
     1. Working Directory --> our directory
             * git add -->
     2. Staging Area --> make files trackable
