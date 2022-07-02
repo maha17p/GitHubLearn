@@ -40,7 +40,9 @@
 
 24.git push origin master --> now we can push our local repo file to our remote repo
 
+25.git checkout branchName --> push --> it helps to create multiple branch in your remote repo.
 
+26.Fork --> helps to copy and create remote repo of someone repo to our own remote repo.
 
 # .gitignore file:
     1.Sometimes, we don't need to add all files  to our git hub repo like nodemodules .By using .gitignore file we can do this.
